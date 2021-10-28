@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    padding-top: 300px;
+}
+.increment-btn{
+    background-color: gold;
+    border-radius: 30px;
+}
+.save-btn{
+    background-color:lightgreen;
+    border-radius: 30px;
+}
+
